@@ -7,9 +7,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş bir Sudoku oyunudur. Oyunda 4 fa
 - 4 farklı zorluk seviyesi: Kolay, Orta, Zor ve Uzman
 - Kullanıcı dostu arayüz
 - Karanlık ve aydınlık modlar
-
 - İpucu özelliği
-- Oyunun kaydedilmesi ve kaldığı yerden devam edilmesi
 - Oyunda hata kontrolü
 
 ## Kurulum
