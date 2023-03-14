@@ -10,7 +10,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş bir Sudoku oyunudur. Oyunda 4 fa
 - İpucu özelliği
 - Oyunda hata kontrolü
 - 
-## gÖRÜNTÜLER
+## Görüntüler
 ![sudoku 14 03 2023 21_50_11](https://user-images.githubusercontent.com/67810878/225115172-f57b1110-fd65-4c3b-9151-46e2b2f2df2b.png)
 
 ![sudoku-2023-03-14-21-40-02](https://user-images.githubusercontent.com/67810878/225115223-1960e1b4-0393-486f-8835-6fcc2ec78c90.gif)
